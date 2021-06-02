@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iFreeDating RSS Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_message">Connecting you...</string>
+
+    <!-- Tabs for the different swipeable views -->
+    <string-array name="tab_headers">
+        <item>Last Online</item>
+        <item>Near Me</item>
+        <item>Random</item>
+        <item>Filtered</item>
+    </string-array>
+
+    <!-- Fragment classes. Must be in same order as tab_headers -->
+    <string-array name="fragment_clazzez">
+        <item>com.ifreedating.freedatingrssreader.fragment.LastOnlineFragment</item>
+        <item>com.ifreedating.freedatingrssreader.fragment.NearMeFragment</item>
+        <item>com.ifreedating.freedatingrssreader.fragment.RandomFragment</item>
+        <item>com.ifreedating.freedatingrssreader.fragment.FilteredFragment</item>
+    </string-array>
+
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

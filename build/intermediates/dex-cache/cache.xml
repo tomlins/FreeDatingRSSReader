@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/jason/AndroidStudioProjects/FreeDatingRSSReader/app/build/intermediates/pre-dexed/debug/support-v13-19.1.0-aa6c7c8899ab7f20e66b75d879fed2b058573550.jar"
+        jar="/home/jason/Programs/android-studio/sdk/extras/android/m2repository/com/android/support/support-v13/19.1.0/support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+    <item
+        dex="/home/jason/AndroidStudioProjects/FreeDatingRSSReader/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-e7c7a1f6f952607117636e7a97750c4051f1fc67.jar"
+        jar="/home/jason/Programs/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
